@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="2.0"
+	xmlns:html="http://www.w3.org/TR/REC-html40"
+	xmlns:sitemap="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" version="1.0" encoding="UTF-8" indent="yes"/>
+<xsl:template match="/">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+{% include head.html %}
+
+</head>
+<body>
+
+
+{% include header.html %}
+
+
+<div class="container-fluid">
+	<div class="row">
+
+{% include sidebar.html %}
+
+		<main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
+
+{% include breadcrumb.html %}
+
+{{ content }}
+
+		</main>
+
+	</div>
+</div>
+
+
+{% include footer.html %}
+
+{% include google-analytics.html %}
+
+</body>
+</html>
+
+</xsl:template>
+</xsl:stylesheet>

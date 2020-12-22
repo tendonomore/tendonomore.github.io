@@ -1,0 +1,22 @@
+
+<header class="navbar navbar-dark sticky-top bg-topbar flex-md-nowrap p-0 shadow">
+	<a class="navbar-brand col-md-3 col-lg-2 me-0 px-3" href="{{ site.baseurl | append: '/' | escape }}" title="{{ site.title | escape }}">{{ site.title | escape }}</a>
+	<button class="navbar-toggler position-absolute d-md-none collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#sidebarMenu" aria-controls="sidebarMenu" aria-expanded="false" aria-label="Toggle navigation">
+		<span class="navbar-toggler-icon"></span>
+	</button>
+
+	<ul class="navbar-nav px-3">
+		<li class="nav-item text-nowrap">
+			<form class="row g-3" target="_blank" accept-charset="utf-8" method="get" action="//www.google.com/search">
+				<input type="hidden" value="tendonomore.github.io" name="sitesearch" />
+				<div class="col-6">
+					<input type="search" id="search_top" required="required" class="form-control form-control-dark " placeholder="Type to search..." maxlength="120" name="q" aria-label="Search" />
+				</div>
+				<div class="col-6">
+					<button class="form-control btn btn-outline-secondary " type="submit">Search</button>
+				</div>
+			</form>
+		</li>
+	</ul>
+
+</header>
