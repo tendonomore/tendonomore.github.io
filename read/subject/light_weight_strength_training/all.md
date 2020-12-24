@@ -7,6 +7,11 @@ description: >
 source_url: '/read/subject/light_weight_strength_training/all.md'
 ---
 
+## 播放清單
+
+* [playlist.m3u](/read/subject/light_weight_strength_training/playlist.m3u)
+
+## 列表
 
 <div class="row">
 {% assign counter = 0 %}

@@ -1,0 +1,6 @@
+---
+layout: playlist
+---
+{% for item in site.data.subject.light_weight_strength_training.all %}
+#EXTINF:{{ item.duration }},{{ item.title }}
+https://www.youtube.com/watch?v={{ item.id }}{% endfor %}
