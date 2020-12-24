@@ -4,7 +4,7 @@ title: 深層溝通
 date: 2020-12-24 09:19:20 +0800
 description: >
   深層溝通
-source_url: '/read/subject/deep talking/index.md'
+source_url: '/read/subject/deep_talking/index.md'
 ---
 
 
