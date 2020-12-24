@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+{% include head.html %}
+
+</head>
+<body>
+
+{% include header.html %}
+
+
+<div class="container-fluid">
+	<div class="row">
+
+{% include subject/light_weight_strength_training/sidebar.html %}
+
+		<main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
+
+{% include breadcrumb.html %}
+
+{{ content }}
+
+		</main>
+
+	</div>
+</div>
+
+
+{% include footer.html %}
+
+{% include google-analytics.html %}
+
+</body>
+</html>
