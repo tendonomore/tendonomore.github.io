@@ -37,5 +37,6 @@ source_url: '/read/subject/sadhguru/isha_kriya/index.md'
 
 ## 個人建議
 
-* 採用「跪坐」
-* 搭配[黃庭禪](/read/subject/htz/innerzen/#十字手印)的「十字手印」
+* 採用「跪坐」。
+* 搭配[黃庭禪](/read/subject/htz/innerzen/#十字手印)的「十字手印」。
+* 呼吸的方式，請採用「鼻子吸氣，嘴巴吐氣。吐氣時，肚子是往內縮。吸氣時，肚子是往外脹。」
