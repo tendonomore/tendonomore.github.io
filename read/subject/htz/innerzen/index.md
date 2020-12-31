@@ -48,3 +48,11 @@ source_url: '/read/subject/htz/innerzen/index.md'
 </div>
 
 
+## 個人建議
+
+* 採用「跪坐」
+
+
+## 十字手印
+
+* [十字手印的功效](https://blog.htz.org.tw/?p=172)

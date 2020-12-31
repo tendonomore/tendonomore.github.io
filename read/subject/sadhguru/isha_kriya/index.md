@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Isha Kriya 
+title: Isha Kriya
 date: 2020-12-24 09:19:20 +0800
 description: >
   Isha Kriya
@@ -35,3 +35,7 @@ source_url: '/read/subject/sadhguru/isha_kriya/index.md'
 </div>
 
 
+## 個人建議
+
+* 採用「跪坐」
+* 搭配[黃庭禪](/read/subject/htz/innerzen/#十字手印)的「十字手印」
