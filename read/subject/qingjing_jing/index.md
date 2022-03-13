@@ -104,3 +104,7 @@ source_url: '/read/subject/qingjing_jing/index.md'
 ## 相關書籍
 
 * [相關書籍](https://www.htz.org.tw/about-the-founder/)
+
+## 專題文章
+
+* 黃庭禪知識庫 / 專題文章 / [清靜經釋義](https://www.htz.org.tw/knowledge-article_list.php?id=13)

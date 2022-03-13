@@ -56,3 +56,13 @@ source_url: '/read/subject/htz/innerzen/index.md'
 ## 十字手印
 
 * [十字手印的功效](https://blog.htz.org.tw/?p=172)
+
+
+## 專題文章
+
+* [目錄](https://www.htz.org.tw/knowledge-article_collect.php)
+* [失落的內心](https://www.htz.org.tw/knowledge-article_list.php?id=1)
+* [撥雲見日](https://www.htz.org.tw/knowledge-article_list.php?id=11)
+* [觸碰七八識](https://www.htz.org.tw/knowledge-article_list.php?id=6)
+* [清靜經釋義](https://www.htz.org.tw/knowledge-article_list.php?id=13)
+* [中庸首章釋義](https://www.htz.org.tw/knowledge-article_list.php?id=14)

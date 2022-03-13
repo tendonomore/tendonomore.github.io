@@ -25,5 +25,5 @@ source_url: '/read/subject/deep_talking/index.md'
 
 ## 訣竅
 
-* 放鬆敞開
-* 搭配黃庭禪
+* 放鬆，敞開
+* 搭配[黃庭禪](https://www.htz.org.tw/knowledge-article_collect.php) / [凡有感覺必有位置](https://www.youtube.com/watch?v=EAxPuc7I9kc)
